@@ -1,0 +1,3 @@
+D:/C++ plus/SPANN_BASELINE/cmake-build-debug/CMakeFiles/SPANN_BASELINE.dir
+D:/C++ plus/SPANN_BASELINE/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++ plus/SPANN_BASELINE/cmake-build-debug/CMakeFiles/rebuild_cache.dir

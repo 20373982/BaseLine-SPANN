@@ -1,0 +1,4 @@
+"D:\clion\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/clion/CLion 2021.3.2/bin/ninja/win/ninja.exe" -G Ninja "D:\C++ plus\SPANN_BASELINE"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/C++ plus/SPANN_BASELINE/cmake-build-debug
